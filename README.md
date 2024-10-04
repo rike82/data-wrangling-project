@@ -10,9 +10,9 @@ Describe the methodology you are using, explaining the steps upi took for data c
     - 1. Have media platforms benefited and continue to benefit from the topic "Covid"?
     - 2. Have health related topics overall gained in importance since the beginning of the pandemic? 
 5. Methodology, steps for data cleaning, analysis, ....
-    1. retrieving data (csv) from Hopkins .....
-    2. retrieving data from Youtube API
-        -
+    1.  retrieving data (csv) from Hopkins .....
+    2.  retrieving data from Youtube API
+        - complications/obstacles
         -
         -
     3. 1. Data Loading and Inspection: -read excel file
@@ -23,9 +23,9 @@ Describe the methodology you are using, explaining the steps upi took for data c
        6.Filtering by Date: To improve the clarity of some of the analysis, we filtered the data to include only columns (months) starting from February 2020
               
 6. Conclusions after our analysis
-   -
+   - bla
 7. Further questions (???)
-   -
+   - sülz
 8. Links to data sources and Trello
        -
 
