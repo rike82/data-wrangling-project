@@ -20,7 +20,13 @@ Describe the methodology you are using, explaining the steps upi took for data c
 5. Methodology, steps for data cleaning, analysis, ....
     1.  retrieving data (csv) from Hopkins Github Documentation
     2.  retrieving data from Youtube API
-        - complications/obstacles
+        - Info sources: https://developers.google.com/youtube/v3/docs/search; https://developers.google.com/youtube/v3/docs/videos; https://developers.google.com/youtube/v3/guides/implementation/pagination
+        - Utilizing 2 YouTUbe API functions:  youtube.search().list(); youtube.videos().list()
+        - Selecting function parameters:
+          """search_word: "search word"; Video Categroies: Education ("27"), Science & Technologie ("28"), People & Blogs ("22"), Howto & Style ("26"); published: "YYYY-MM-DD";     location: "latitude, longitute";
+          radius: "miles""""
+        - Automation of data retrieval in one self-created function, comprising youtube.search().list(), youtube.videos().list() as well as pd.dataframe table creation
+        - Complications/obstacles: API request limitations; Trouble-shooting to fine-tune queries -> time and resource intensive
         -
         -
     3. 1. Data Loading and Inspection: read excel file
