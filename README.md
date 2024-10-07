@@ -1,6 +1,6 @@
 Describe the methodology you are using, explaining the steps upi took for data cleaning, analysis, etc.
 1. Projectitle:
-    - ""
+    - "Youtube in times of Covid"
 2. Introducing our project:
     - The corona pandemic has impacted people and businesses worldwide. At the same time, there has been a lot of information available to the public about covid.
     - Question:
